@@ -4,12 +4,12 @@
 
 - <b>ReactJS / NextJS</b>
   - [Portfolio page](https://github.com/Mackan1/portfolio-page) - <i>See result here: https://www.markuskrag.com/</i>
-  - [Warehouse Dashboard](https://github.com/Mackan1/react-dashboard) (a bit outdated and not in use anymore) - <i>See result here: https://blazar-dashboard.netlify.app/</i>
+  - [Warehouse Dashboard](https://github.com/Mackan1/react-dashboard) (outdated [Built 02/2022] and not in use anymore) - <i>See result here: https://blazar-dashboard.netlify.app/</i>
 - <b>NodeJS</b>
-  - [Warehouse server](https://github.com/Mackan1/dashboard-server) (a bit outdated)
+  - [Warehouse server](https://github.com/Mackan1/dashboard-server) (outdated [Built 02/2022] )
   
 - <b>Shopify Liquid</b>
-  - [Shopify Ring Builder](https://github.com/Mackan1/ring-builder) (a bit outdated)
+  - [Shopify Ring Builder](https://github.com/Mackan1/ring-builder) (outdated [Built 02/2022])
 
 <h2>🤳 Connect with me:</h2>
 
