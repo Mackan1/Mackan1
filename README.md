@@ -24,6 +24,6 @@
 [linkedin]: https://www.linkedin.com/in/markus-krag/
 
 
-<h2>⚡ Fun fact:</h2>
+<br><h2>⚡ Fun fact:</h2>
   - I am half Swedish and Danish
 
