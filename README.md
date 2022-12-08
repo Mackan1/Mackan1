@@ -13,7 +13,7 @@
 
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="MarkusKrag | FaceBook" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />][facebook]
+[<img align="left" alt="MarkusKrag | FaceBook" width="22px" src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg" />][facebook]
 [<img align="left" alt="MarkusKrag| LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="MarkusKrag | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" />][instagram]
 
