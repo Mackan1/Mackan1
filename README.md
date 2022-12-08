@@ -4,8 +4,8 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>ReactJS / NextJS</b>
-  - [Portfolio page](https://github.com/Mackan1/portfolio-page) <i>See result here: https://www.markuskrag.com/</i>
-  - [Warehouse Dashboard (a bit outdated)](https://github.com/Mackan1/react-dashboard) <i>See result here: https://blazar-dashboard.netlify.app/</i>
+  - [Portfolio page](https://github.com/Mackan1/portfolio-page)<br><i>See result here: https://www.markuskrag.com/</i>
+  - [Warehouse Dashboard (a bit outdated)](https://github.com/Mackan1/react-dashboard)<br> <i>See result here: https://blazar-dashboard.netlify.app/</i>
   
 - <b>NodeJS</b>
   - [Warehouse server](https://github.com/Mackan1/dashboard-server) 
