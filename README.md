@@ -3,13 +3,13 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>ReactJS / NextJS</b>
-  - [Portfolio page](https://github.com/Mackan1/portfolio-page)- <i>See result here: https://www.markuskrag.com/</i>
-  - [Warehouse Dashboard (a bit outdated)](https://github.com/Mackan1/react-dashboard)- <i>See result here: https://blazar-dashboard.netlify.app/</i>
+  - [Portfolio page](https://github.com/Mackan1/portfolio-page) - <i>See result here: https://www.markuskrag.com/</i>
+  - [Warehouse Dashboard](https://github.com/Mackan1/react-dashboard)(a bit outdated) - <i>See result here: https://blazar-dashboard.netlify.app/</i>
 - <b>NodeJS</b>
-  - [Warehouse server (a bit outdated)](https://github.com/Mackan1/dashboard-server) 
+  - [Warehouse server](https://github.com/Mackan1/dashboard-server) (a bit outdated)
   
 - <b>Shopify Liquid</b>
-  - [Shopify Ring Builder (a bit outdated)](https://github.com/Mackan1/ring-builder)
+  - [Shopify Ring Builder](https://github.com/Mackan1/ring-builder) (a bit outdated)
 
 <h2>🤳 Connect with me:</h2>
 
