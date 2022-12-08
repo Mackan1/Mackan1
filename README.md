@@ -1,6 +1,6 @@
 <h1>Hi, I'm Markus!</a></h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Public projects:</h2>
 
 - <b>ReactJS / NextJS</b>
   - [Portfolio page](https://github.com/Mackan1/portfolio-page) - <i>See result here: https://www.markuskrag.com/</i>
